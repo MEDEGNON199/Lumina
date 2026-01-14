@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lumina AI Creative Studio",
+  "description": "A high-end multimodal application featuring advanced text reasoning with Gemini 3 Pro, creative image generation, and real-time voice interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
